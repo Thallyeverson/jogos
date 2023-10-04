@@ -1,0 +1,9 @@
+site_name: JOGOS ATUAIS
+site_author: Thallyeverson de Oliveira Silvestre
+
+theme: 
+  name: material
+  language: pt
+  site_url: https://jogosnews.com
+  docs_dir: docs
+  
